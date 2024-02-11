@@ -1,1 +1,1 @@
-# A_B-Test - Mann–Whitney U test
+# A_B-Test - Mann–Whitney U Test
